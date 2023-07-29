@@ -1,3 +1,2 @@
 # ara-gone.github.io
-A silly clown corner for a silly clown programmer.
-Also, projects.
+Future space for any silly web projects that are 100% definitely absolutely happening.
